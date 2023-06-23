@@ -1,0 +1,44 @@
+[
+  {
+    "BaseName": "BaseRecord1",
+    "BaseId": 1,
+    "SubRecords": [
+      {
+        "SubRecordName": "SubRecord1",
+        "SubRecordId": 11
+      },
+      {
+        "SubRecordName": "SubRecord2",
+        "SubRecordId": 12
+      },
+      {
+        "SubRecordName": "SubRecord3",
+        "SubRecordId": 13
+      }
+    ]
+  },
+  {
+    "BaseName": "BaseRecord2",
+    "BaseId": 2,
+    "SubRecords": [      
+    ]
+  },
+  {
+    "BaseName": "BaseRecord3",
+    "BaseId": 3,
+    "SubRecords": [
+      {
+        "SubRecordName": "SubRecord1",
+        "SubRecordId": 31
+      },
+      {
+        "SubRecordName": "SubRecord2",
+        "SubRecordId": 32
+      },
+      {
+        "SubRecordName": "SubRecord3",
+        "SubRecordId": 33
+      }
+    ]
+  }
+]
